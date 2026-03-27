@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -57,4 +58,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
