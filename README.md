@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -65,10 +66,12 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
