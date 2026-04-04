@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
