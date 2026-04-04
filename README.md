@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaitali-1105/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -73,6 +75,7 @@
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
