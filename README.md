@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
@@ -37,6 +38,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -50,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaitali-1105/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/chaitali-1105/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chaitali-1105/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Math
@@ -59,6 +62,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -122,4 +126,8 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/chaitali-1105/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chaitali-1105/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
