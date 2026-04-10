@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -159,6 +161,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
