@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +170,5 @@
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
