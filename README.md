@@ -45,6 +45,7 @@
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -61,6 +62,7 @@
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaitali-1105/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/chaitali-1105/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chaitali-1105/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -78,6 +80,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -162,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
