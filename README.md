@@ -152,6 +152,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -168,6 +170,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/chaitali-1105/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
