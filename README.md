@@ -151,16 +151,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaitali-1105/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -171,4 +174,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/chaitali-1105/DSA/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
