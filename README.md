@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/chaitali-1105/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/chaitali-1105/DSA/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -187,6 +188,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/chaitali-1105/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/chaitali-1105/DSA/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
