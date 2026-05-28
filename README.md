@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/chaitali-1105/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/chaitali-1105/DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -118,6 +119,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/chaitali-1105/DSA/tree/main/0136-single-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
