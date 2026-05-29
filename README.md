@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/chaitali-1105/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/chaitali-1105/DSA/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaitali-1105/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -45,6 +46,7 @@
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
