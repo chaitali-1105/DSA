@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/chaitali-1105/DSA/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaitali-1105/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
