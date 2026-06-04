@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
@@ -59,6 +60,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
