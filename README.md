@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/chaitali-1105/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitali-1105/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/chaitali-1105/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
