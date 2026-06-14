@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/chaitali-1105/DSA/tree/main/0031-next-permutation/) | Medium |
@@ -43,6 +44,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaitali-1105/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
@@ -158,6 +160,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
