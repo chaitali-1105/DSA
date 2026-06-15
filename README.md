@@ -40,6 +40,7 @@
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/chaitali-1105/DSA/tree/main/0704-binary-search/) | Easy |
+| [0860-lemonade-change](https://github.com/chaitali-1105/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaitali-1105/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -294,4 +295,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/chaitali-1105/DSA/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
