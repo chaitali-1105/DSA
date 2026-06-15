@@ -7,9 +7,6 @@ class Solution {
                 return false;
             }
             far=Math.max(far,i+nums[i]);
-            if(far>=n-1){
-                return true;
-            }
         }
         return true;
     }
