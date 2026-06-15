@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaitali-1105/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/chaitali-1105/DSA/tree/main/0078-subsets/) | Medium |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/chaitali-1105/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitali-1105/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -294,6 +296,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/chaitali-1105/DSA/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
