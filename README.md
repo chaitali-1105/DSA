@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaitali-1105/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/chaitali-1105/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -134,6 +135,7 @@
 | [0007-reverse-integer](https://github.com/chaitali-1105/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/chaitali-1105/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/chaitali-1105/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
