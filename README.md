@@ -31,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/chaitali-1105/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/chaitali-1105/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -138,6 +139,7 @@
 | [0050-powx-n](https://github.com/chaitali-1105/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/chaitali-1105/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -326,4 +328,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaitali-1105/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
