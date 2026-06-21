@@ -138,6 +138,7 @@
 | [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/chaitali-1105/DSA/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/chaitali-1105/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
