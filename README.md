@@ -150,6 +150,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/chaitali-1105/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -169,6 +170,7 @@
 | [0050-powx-n](https://github.com/chaitali-1105/DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/chaitali-1105/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -191,6 +193,7 @@
 | [0136-single-number](https://github.com/chaitali-1105/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chaitali-1105/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/chaitali-1105/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/chaitali-1105/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
