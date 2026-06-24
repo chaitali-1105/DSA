@@ -190,12 +190,14 @@
 | [0090-subsets-ii](https://github.com/chaitali-1105/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/chaitali-1105/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chaitali-1105/DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/chaitali-1105/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/chaitali-1105/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
