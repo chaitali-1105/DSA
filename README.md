@@ -162,6 +162,7 @@
 | [0118-pascals-triangle](https://github.com/chaitali-1105/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitali-1105/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0338-counting-bits](https://github.com/chaitali-1105/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -195,6 +196,7 @@
 | [0191-number-of-1-bits](https://github.com/chaitali-1105/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/chaitali-1105/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/chaitali-1105/DSA/tree/main/0338-counting-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
