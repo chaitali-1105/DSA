@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaitali-1105/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/chaitali-1105/DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -69,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitali-1105/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/chaitali-1105/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/chaitali-1105/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -121,6 +123,7 @@
 | [0012-integer-to-roman](https://github.com/chaitali-1105/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/chaitali-1105/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/chaitali-1105/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -212,6 +215,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/chaitali-1105/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chaitali-1105/DSA/tree/main/0088-merge-sorted-array/) | Easy |
