@@ -74,6 +74,7 @@
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitali-1105/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/chaitali-1105/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -256,6 +257,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/chaitali-1105/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/chaitali-1105/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
@@ -309,6 +311,7 @@
 | [0086-partition-list](https://github.com/chaitali-1105/DSA/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitali-1105/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -366,4 +369,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/chaitali-1105/DSA/tree/main/0062-unique-paths/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
