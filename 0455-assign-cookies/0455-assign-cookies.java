@@ -13,12 +13,7 @@ class Solution {
                     i++;
                 }
                 j++;
-            
-
         }
-            
-        
-        
             return count;
     }
 }
