@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/chaitali-1105/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/chaitali-1105/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/chaitali-1105/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/chaitali-1105/DSA/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/chaitali-1105/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -161,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/chaitali-1105/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/chaitali-1105/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/chaitali-1105/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -347,6 +349,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/chaitali-1105/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/chaitali-1105/DSA/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
