@@ -84,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -128,6 +130,7 @@
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chaitali-1105/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/chaitali-1105/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
