@@ -30,6 +30,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitali-1105/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/chaitali-1105/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/chaitali-1105/DSA/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/chaitali-1105/DSA/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/chaitali-1105/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/chaitali-1105/DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -355,6 +356,7 @@
 | [0045-jump-game-ii](https://github.com/chaitali-1105/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/chaitali-1105/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/chaitali-1105/DSA/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chaitali-1105/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
