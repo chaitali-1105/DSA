@@ -83,6 +83,7 @@
 | [0217-contains-duplicate](https://github.com/chaitali-1105/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/chaitali-1105/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/chaitali-1105/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -135,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/chaitali-1105/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0290-word-pattern](https://github.com/chaitali-1105/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
