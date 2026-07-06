@@ -103,6 +103,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chaitali-1105/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitali-1105/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitali-1105/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/chaitali-1105/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/chaitali-1105/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/chaitali-1105/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/chaitali-1105/DSA/tree/main/0014-longest-common-prefix/) | Easy |
@@ -177,6 +179,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chaitali-1105/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/chaitali-1105/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
