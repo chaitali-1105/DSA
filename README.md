@@ -75,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/chaitali-1105/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/chaitali-1105/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/chaitali-1105/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
@@ -138,6 +139,7 @@
 | [0014-longest-common-prefix](https://github.com/chaitali-1105/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/chaitali-1105/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/chaitali-1105/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/chaitali-1105/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -365,6 +367,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitali-1105/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/chaitali-1105/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/chaitali-1105/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
