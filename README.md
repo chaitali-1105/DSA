@@ -87,6 +87,7 @@
 | [0290-word-pattern](https://github.com/chaitali-1105/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/chaitali-1105/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/chaitali-1105/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
@@ -146,6 +147,7 @@
 | [0290-word-pattern](https://github.com/chaitali-1105/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/chaitali-1105/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/chaitali-1105/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/chaitali-1105/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/chaitali-1105/DSA/tree/main/0763-partition-labels/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -369,6 +371,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaitali-1105/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/chaitali-1105/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/chaitali-1105/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/chaitali-1105/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chaitali-1105/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
