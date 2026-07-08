@@ -109,6 +109,7 @@
 | [0015-3sum](https://github.com/chaitali-1105/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaitali-1105/DSA/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitali-1105/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/chaitali-1105/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/chaitali-1105/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/chaitali-1105/DSA/tree/main/0061-rotate-list/) | Medium |
@@ -139,6 +140,7 @@
 | [0013-roman-to-integer](https://github.com/chaitali-1105/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/chaitali-1105/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/chaitali-1105/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/chaitali-1105/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/chaitali-1105/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/chaitali-1105/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -410,4 +412,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/chaitali-1105/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
