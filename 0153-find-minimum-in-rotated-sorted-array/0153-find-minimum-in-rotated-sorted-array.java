@@ -5,6 +5,7 @@ class Solution {
         int ans=Integer.MAX_VALUE;
         while(low<=high){
             int mid=low+(high-low)/2;
+            //if both half are sorted
             if(nums[low]<=nums[high]){
                 ans=Math.min(ans,nums[low]);
                 break;
@@ -14,8 +15,9 @@ class Solution {
                 low=mid+1;
             }
             else{
-                high=mid-1;
+             
                 ans=Math.min(ans,nums[mid]);
+                   high=mid-1;
             }
         }
         return ans;
