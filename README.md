@@ -49,6 +49,7 @@
 | [0283-move-zeroes](https://github.com/chaitali-1105/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaitali-1105/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chaitali-1105/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
@@ -75,6 +76,7 @@
 | [0278-first-bad-version](https://github.com/chaitali-1105/DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaitali-1105/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaitali-1105/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/chaitali-1105/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/chaitali-1105/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chaitali-1105/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -209,6 +211,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitali-1105/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chaitali-1105/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/chaitali-1105/DSA/tree/main/0338-counting-bits/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -378,6 +381,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chaitali-1105/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -399,6 +403,7 @@
 | [0055-jump-game](https://github.com/chaitali-1105/DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/chaitali-1105/DSA/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/chaitali-1105/DSA/tree/main/0135-candy/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaitali-1105/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chaitali-1105/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/chaitali-1105/DSA/tree/main/0455-assign-cookies/) | Easy |
