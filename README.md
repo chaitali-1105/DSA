@@ -59,6 +59,7 @@
 | [0860-lemonade-change](https://github.com/chaitali-1105/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/chaitali-1105/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chaitali-1105/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaitali-1105/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -76,6 +77,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaitali-1105/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/chaitali-1105/DSA/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/chaitali-1105/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/chaitali-1105/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
