@@ -61,6 +61,7 @@
 | [0875-koko-eating-bananas](https://github.com/chaitali-1105/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chaitali-1105/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/chaitali-1105/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaitali-1105/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -383,6 +384,7 @@
 | [0238-product-of-array-except-self](https://github.com/chaitali-1105/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chaitali-1105/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/chaitali-1105/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/chaitali-1105/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
