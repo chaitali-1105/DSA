@@ -197,6 +197,7 @@
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/chaitali-1105/DSA/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/chaitali-1105/DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/chaitali-1105/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaitali-1105/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -389,6 +390,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/chaitali-1105/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/chaitali-1105/DSA/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaitali-1105/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -424,6 +426,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/chaitali-1105/DSA/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/chaitali-1105/DSA/tree/main/0258-add-digits/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
