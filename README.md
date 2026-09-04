@@ -360,6 +360,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitali-1105/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/chaitali-1105/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/chaitali-1105/DSA/tree/main/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/chaitali-1105/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
