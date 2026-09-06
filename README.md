@@ -219,6 +219,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/chaitali-1105/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/chaitali-1105/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/chaitali-1105/DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
@@ -359,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chaitali-1105/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/chaitali-1105/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/chaitali-1105/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/chaitali-1105/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/chaitali-1105/DSA/tree/main/0086-partition-list/) | Medium |
