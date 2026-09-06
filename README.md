@@ -134,6 +134,7 @@
 | [0125-valid-palindrome](https://github.com/chaitali-1105/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/chaitali-1105/DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chaitali-1105/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitali-1105/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/chaitali-1105/DSA/tree/main/0189-rotate-array/) | Medium |
@@ -255,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitali-1105/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/chaitali-1105/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/chaitali-1105/DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/chaitali-1105/DSA/tree/main/0191-number-of-1-bits/) | Easy |
@@ -269,6 +271,7 @@
 | [0056-merge-intervals](https://github.com/chaitali-1105/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/chaitali-1105/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/chaitali-1105/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/chaitali-1105/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/chaitali-1105/DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaitali-1105/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/chaitali-1105/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -290,6 +293,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/chaitali-1105/DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/chaitali-1105/DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -368,6 +372,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/chaitali-1105/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/chaitali-1105/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/chaitali-1105/DSA/tree/main/0146-lru-cache/) | Medium |
+| [0148-sort-list](https://github.com/chaitali-1105/DSA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/chaitali-1105/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/chaitali-1105/DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
